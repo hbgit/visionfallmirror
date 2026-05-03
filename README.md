@@ -159,13 +159,11 @@ conda activate yolonas_env
 git clone https://github.com/YOUR_USER/P2_YOLO_NAS.git
 cd P2_YOLO_NAS
 ````
-2. Use the notebook available at [Notebook on Colab](https://drive.google.com/file/d/1U3GGm3UOQDEh31S0PYxg6wcgJLgvzSU0/view?usp=sharing
-).
-3. Install dependencies:
+4. Install dependencies:
    ```bash
    pip install -r requirements.txt
 📓 How to run the notebook
-1. Start Jupyter in WSL2:
+5. Start Jupyter in WSL2:
  ```bash
 
 conda activate yolonas_env

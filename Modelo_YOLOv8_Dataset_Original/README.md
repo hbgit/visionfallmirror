@@ -1,6 +1,6 @@
-# YOLOv8 Modelo de Referência
-- Disponível em [GitHub](https://github.com/Tech-Watt/Fall-Detection)
-seguindo tutorial da Autoria de: [YouTube](https://youtu.be/wrhfMF4uqj8?si=bgvQIP8dlM2cwJRm)- Tech Watt
+# YOLOv8 Reference Model
+- Available on [GitHub](https://github.com/Tech-Watt/Fall-Detection)
+following the tutorial by: [YouTube](https://youtu.be/wrhfMF4uqj8?si=bgvQIP8dlM2cwJRm) - Tech Watt
 
 ----------------------------------------------
 

@@ -7,8 +7,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # ====== AJUSTE AQUI (RUN fixo) ======
-RUN_DIR = Path("/mnt/c/Users/Nat Natalia/Desktop/P2_YOLO_NAS/checkpoints/fall_author_dataset/RUN_20250810_010447_075005")
-OUT_FIG = Path("/mnt/c/Users/Nat Natalia/Desktop/P2_YOLO_NAS/plots/loss_map.png")
+RUN_DIR = Path("checkpoints/fall_author_dataset/RUN_20250810_010447_075005")
+OUT_FIG = Path("plots/loss_map.png")
 
 # Tags (ajuste se seu CSV tiver nomes diferentes)
 TAG_LOSS_TRAIN = "ppyoloeloss/loss"

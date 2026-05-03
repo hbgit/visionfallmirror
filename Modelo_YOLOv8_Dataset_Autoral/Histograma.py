@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-scores_csv = r"C:\Users\Nat Natalia\Desktop\Natalia\vision_temporaria\P2_YOLOv8\scores_videos.csv"
-labels_csv = r"C:\Users\Nat Natalia\Desktop\Natalia\vision_temporaria\P2_YOLOv8\dataset\labels_videosYOLOMEU.csv"
+scores_csv = r"C:\Users\Nat ia\Desktop\ia\vision_temporaria\P2_YOLOv8\scores_videos.csv"
+labels_csv = r"C:\Users\Nat ia\Desktop\ia\vision_temporaria\P2_YOLOv8\dataset\labels_videosYOLOMEU.csv"
 
 df_s = pd.read_csv(scores_csv)
 df_l = pd.read_csv(labels_csv)

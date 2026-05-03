@@ -1,5 +1,5 @@
-train: /mnt/c/Users/Nat Natalia/Desktop/TCC2/P2_YOLO_NAS/datasetNAS/train/images
-val: /mnt/c/Users/Nat Natalia/Desktop/TCC2/P2_YOLO_NAS/datasetNAS/valid/images
+train: datasetNAS/train/images
+val: datasetNAS/valid/images
 
 nc: 2
 names: ['fall', 'person']

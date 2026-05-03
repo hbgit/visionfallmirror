@@ -1,8 +1,8 @@
 
-# YOLO-NAS Modelo de Referência
-- Modelo Disponível em [Kaggle](https://www.kaggle.com/code/stpeteishii/fall-detection-yolo-nas-train-predict) Da autoria de [@stpeteishii](https://www.kaggle.com/stpeteishii) ou Com pequenas modificações necessárias para execução na máquina no WSL2  disponível no [Colab](https://drive.google.com/file/d/1k1Nu0BolRzG4UkjND6e6O2NIybvUXsCc/view?usp=sharing) 
-- Dataset Disponível em [Kaggle](https://www.kaggle.com/datasets/elwalyahmad/fall-detection) Da autoria de [@selwalyahmad](https://www.kaggle.com/elwalyahmad)
-- Coco, pesos pré-treinados disponíveis em [Hugging Face](https://huggingface.co/bdsqlsz/YOLO_NAS/blob/main/yolo_nas_l_coco.pth)
+# YOLO-NAS Reference Model
+- Model available on [Kaggle](https://www.kaggle.com/code/stpeteishii/fall-detection-yolo-nas-train-predict), authored by [@stpeteishii](https://www.kaggle.com/stpeteishii), or with minor modifications required to run on a local WSL2 machine, available on [Colab](https://drive.google.com/file/d/1k1Nu0BolRzG4UkjND6e6O2NIybvUXsCc/view?usp=sharing)
+- Dataset available on [Kaggle](https://www.kaggle.com/datasets/elwalyahmad/fall-detection), authored by [@selwalyahmad](https://www.kaggle.com/elwalyahmad)
+- COCO pre-trained weights available on [Hugging Face](https://huggingface.co/bdsqlsz/YOLO_NAS/blob/main/yolo_nas_l_coco.pth)
 ----------------------------------------------
 
 @misc{supergradients,
